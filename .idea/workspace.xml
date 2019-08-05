@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/PythonPractice/BreakAndContinue.py" line="17" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b323484a-3a42-4797-a284-f39a87a18eba" name="Default Changelist" comment="Added Break and Continue concepts">
+    <list default="true" id="b323484a-3a42-4797-a284-f39a87a18eba" name="Default Changelist" comment="Added Advanced Functions concept in python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,60 +16,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/DataTypes.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/StringConcept.py">
+        <entry file="file://$PROJECT_DIR$/PythonPractice/FunctionConcept_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1989">
-              <caret line="117" selection-start-line="117" selection-end-line="117" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/ListConcept.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="24" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/IfElseConcept.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/LoopsConcept.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="81" column="3" selection-start-line="81" selection-start-column="3" selection-end-line="81" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/BreakAndContinue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            <state relative-caret-position="355">
+              <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/FunctionConcept.py">
+        <entry file="file://$PROJECT_DIR$/PythonPractice/ClassConcept.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="355">
-              <caret line="75" column="62" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="62" />
+              <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -98,6 +57,8 @@
         <option value="$PROJECT_DIR$/PythonPractice/LoopsConcept.py" />
         <option value="$PROJECT_DIR$/PythonPractice/BreakAndContinue.py" />
         <option value="$PROJECT_DIR$/PythonPractice/FunctionConcept.py" />
+        <option value="$PROJECT_DIR$/PythonPractice/FunctionConcept_2.py" />
+        <option value="$PROJECT_DIR$/PythonPractice/ClassConcept.py" />
       </list>
     </option>
   </component>
@@ -152,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.FunctionConcept">
+  <component name="RunManager" selected="Python.ClassConcept">
     <configuration name="BreakAndContinue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3Sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,6 +127,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/BreakAndContinue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ClassConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3Sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/ClassConcept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IfElseConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FunctionConcept_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3Sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,28 +189,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/IfElseConcept.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ListConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3Sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/ListConcept.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/FunctionConcept_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ClassConcept" />
+        <item itemvalue="Python.FunctionConcept_2" />
         <item itemvalue="Python.FunctionConcept" />
         <item itemvalue="Python.BreakAndContinue" />
         <item itemvalue="Python.LoopsConcept" />
-        <item itemvalue="Python.IfElseConcept" />
-        <item itemvalue="Python.ListConcept" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1565030930667</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Functions concept">
+      <created>1565033004797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1565033004797</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Advanced Functions concept in python">
+      <created>1565034116264</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565034116264</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -350,7 +325,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python Concepts" />
     <MESSAGE value="Added Break and Continue concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Break and Continue concepts" />
+    <MESSAGE value="Added Functions concept" />
+    <MESSAGE value="Added Advanced Functions concept in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Advanced Functions concept in python" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PythonPractise/Dir.py" />
@@ -399,6 +376,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="75" column="62" selection-start-line="75" selection-start-column="62" selection-end-line="75" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/FunctionConcept_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/ClassConcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
         </state>
       </provider>
     </entry>
