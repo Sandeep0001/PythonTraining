@@ -1,3 +1,5 @@
+#Multiple Inheritance is allowed in Python
+
 class Base1(object):
 
     def __init__(self):
