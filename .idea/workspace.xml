@@ -2,6 +2,7 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/PythonPractice/BreakAndContinue.py" line="17" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/PythonPractice/SetConcept.py" description="lang = {&quot;Java&quot;, &quot;Python&quot;, &quot;C&quot;}" line="83" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b323484a-3a42-4797-a284-f39a87a18eba" name="Default Changelist" comment="">
@@ -16,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PythonPractice/TupleConcept.py">
+        <entry file="file://$PROJECT_DIR$/PythonPractice/SetConcept.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+            <state relative-caret-position="338">
+              <caret line="93" selection-start-line="93" selection-start-column="2" selection-end-line="94" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -57,6 +58,7 @@
         <option value="$PROJECT_DIR$/PythonPractice/AccessParentClassMembers.py" />
         <option value="$PROJECT_DIR$/PythonPractice/MultipleInheritanceConcept.py" />
         <option value="$PROJECT_DIR$/PythonPractice/TupleConcept.py" />
+        <option value="$PROJECT_DIR$/PythonPractice/SetConcept.py" />
       </list>
     </option>
   </component>
@@ -111,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TupleConcept">
+  <component name="RunManager" selected="Python.SetConcept">
     <configuration name="AccessParentClassMembers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3Sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,27 +156,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="InheritanceConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python3Sessions" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonPractice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/InheritanceConcept.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="MultipleInheritanceConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python3Sessions" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,6 +169,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/MultipleInheritanceConcept.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SetConcept" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python3Sessions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonPractice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/SetConcept.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SetConcept" />
         <item itemvalue="Python.TupleConcept" />
         <item itemvalue="Python.AccessParentClassMembers" />
         <item itemvalue="Python.MultipleInheritanceConcept" />
         <item itemvalue="Python.CheckSubClassConcept" />
-        <item itemvalue="Python.InheritanceConcept" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565116761556</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added Tuple Concept">
+      <created>1565119587301</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1565119587301</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -379,7 +388,8 @@
     <MESSAGE value="Added Inheritance Concepts" />
     <MESSAGE value="Added Access Parent Class Member Concept" />
     <MESSAGE value="Added Multiple Inheritance Concept" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Multiple Inheritance Concept" />
+    <MESSAGE value="Added Tuple Concept" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tuple Concept" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/PythonPractise/Dir.py" />
@@ -489,8 +499,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonPractice/TupleConcept.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        <state relative-caret-position="321">
+          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/SetConcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="93" selection-start-line="93" selection-start-column="2" selection-end-line="94" selection-end-column="17" />
         </state>
       </provider>
     </entry>
